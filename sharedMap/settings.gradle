@@ -1,0 +1,2 @@
+rootProject.name='sharedMap'
+include ':app'
